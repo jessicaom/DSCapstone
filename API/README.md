@@ -2,7 +2,9 @@
 
 Pulling some data from the Qunadl API. Qaundl is currently the most widely used aggregator of financial market data.
 
-##Tasks for this mini project:
+Tasks for this mini project:
+
+
 1. Collect data from the Franfurt Stock Exchange, for the ticker AFX_X, for the whole year 2017 (keep in mind that the date format is YYYY-MM-DD).
 
 2. Convert the returned JSON object into a Python dictionary.
