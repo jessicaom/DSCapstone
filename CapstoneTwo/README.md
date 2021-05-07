@@ -1,3 +1,30 @@
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+      <li><a href="#built-with">Datasets</a></li>
+      </ul>
+    </li>
+    <li><a href="#built-with">Built With</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+The goal is to create movie an tv recommendations to users based on past ratings, different genres, release date e.t.c.
+
+### Datasets
+
+#### Netflix prize data
+https://www.kaggle.com/netflix-inc/netflix-prize-data
+The first dataset contains over 100 million ratings from 480 thousand randomly-chosen, anonymous Netflix customers over 17 thousand movie titles.
+The data were collected between October, 1998 and December, 2005 and reflect the distribution of all ratings received during this period. The ratings are on a scale from 1 to 5 (integral) stars. To protect customer privacy, each customer id has been replaced with a randomly-assigned id. The date of each rating and the title and year of release for each movie id are also provided.
 
 #### Netflix shows data
 https://www.kaggle.com/shivamb/netflix-shows
