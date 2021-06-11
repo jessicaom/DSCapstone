@@ -17,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The goal is to create movie an tv recommendations to users based on past ratings, different genres, release date e.t.c.
+The purpose of this data science project is to come up with a recomendation model for media and entertainment for a streaming services. This streaming service provider suspects it may not be optimally engaging its useres, relative to other services. It also does not have a strong sense of what current shows and movies matter most to its users, particularly which ones they're most likely to pay more for. This project aims to build a predictive model for media recomendation based on a number movie ratings, genres, release date e.t.c. This model will be used to provide guidance on movie an tv recommendations apprach.
 
 ### Datasets
 
